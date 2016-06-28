@@ -15,6 +15,7 @@ public class classappel {
 		System.out.println(StringUtils.isEmpty(null));
 		System.out.println(StringUtils.isEmpty(""));
 		System.out.println(StringUtils.isEmpty("j'aime"));
+		System.out.println(StringUtils.isEmpty("j'aime pas"));
 		
 	}
 
